@@ -1,3 +1,8 @@
+# Customer Segmentation Using KMeans Clustering Model
+by :
+- Sulistiya Nirta Sunaryo
+- Niko Yannova
+
 # Background
 In every business, including e-commerce, customer behavior differs from person to person. But there are always some similar characteristics between a group of customers and also some differentiating characteristics<sup>[1]</sup>. We can leverage these differences and similarities to separate the customers into a couple of groups, and then use those groups’ characteristics to further understand the customers. Using this knowledge, the business can learn about the shopping behavior of different kinds of customers and develop different products for each customer group. This process is known as customer segmentation. When we understand the customers characteristics, we can analyze the relationships between customers and the e-commerce business itself, and it can provide the company with information about what the customers are expecting. By acting on the results of these analyses, the company can increase customer engagement by enhancing customer satisfaction and loyalty<sup>[2]</sup>. This will also lead to better customer relationship management (CRM) and improved CRM can lead to improved customer acquisition, customer retention, and customer profitability<sup>[3]</sup>. Some other potential benefits of CRM are as follows: (1) Increased customer retention and loyalty, (2) Higher customer profitability, (3) Creation value for the customer, (4) Customization of products and services, and (5) Lower process, higher quality products and services<sup>[7]</sup>.
 
