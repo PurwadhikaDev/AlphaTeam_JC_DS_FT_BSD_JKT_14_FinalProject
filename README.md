@@ -1,8 +1,9 @@
 # Final Project - Customer Segmentation Using KMeans Clustering
-by :
-Alpha Team
+Contributor
 - Sulistiya Nirta Sunaryo
 - Niko Yannova
+
+This notebook is about customer segmentation of Olist, which is a Brazilian e-commerce. The data is from a public dataset accessed through [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
 # Background
 In every business, including e-commerce, customer behavior differs from person to person. But there are always some similar characteristics between a group of customers and also some differentiating characteristics<sup>[1]</sup>. We can leverage these differences and similarities to separate the customers into a couple of groups, and then use those groups’ characteristics to further understand the customers. Using this knowledge, the business can learn about the shopping behavior of different kinds of customers and develop different products for each customer group. This process is known as customer segmentation. When we understand the customers characteristics, we can analyze the relationships between customers and the e-commerce business itself, and it can provide the company with information about what the customers are expecting. By acting on the results of these analyses, the company can increase customer engagement by enhancing customer satisfaction and loyalty<sup>[2]</sup>. This will also lead to better customer relationship management (CRM) and improved CRM can lead to improved customer acquisition, customer retention, and customer profitability<sup>[3]</sup>. Some other potential benefits of CRM are as follows: (1) Increased customer retention and loyalty, (2) Higher customer profitability, (3) Creation value for the customer, (4) Customization of products and services, and (5) Lower process, higher quality products and services<sup>[7]</sup>.
@@ -60,7 +61,8 @@ In the modeling phase, we started by training the model using various numbers of
 # Evaluation
 We are using 4 clusters in this project because this number of clusters gives us the best inertia as well as silhouette score. Increasing the number of clusters will not decrease the inertia score that significantly, while it will decrease the silhouette score dramatically. Using 4 clusters, we are able to get an inertia score of 1,244,650 and silhouette score of 0.77.
 
-
+<img src=Images/Inertia.png>
+<img src=Images/Silhouette.png>
 
 # References
 1. Wu, Jing, and Zheng Lin. “Research on Customer Segmentation Model by Clustering.” Proceedings of the 7th International Conference on Electronic Commerce  - ICEC '05, 15 Aug. 2005, pp. 316–318., https://doi.org/10.1145/1089551.1089610. 
