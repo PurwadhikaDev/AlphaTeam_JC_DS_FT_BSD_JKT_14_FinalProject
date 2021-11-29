@@ -1,4 +1,4 @@
-# Final Project - Customer Segmentation Using KMeans Clustering Model
+# Final Project - Customer Segmentation Using KMeans Clustering
 by :
 Alpha Team
 - Sulistiya Nirta Sunaryo
