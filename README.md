@@ -33,7 +33,7 @@ This is when the marketing team have done any targeted marketing, such as target
 
 When we are doing targeted marketing, the hope is that we can increase sales. When we do wrong targeted marketing, then that future increase in sales is lost.
 
-### Performance Measure
+### c. Performance Measure
 The performance measures used to evaluate the ML model are inertia and silhouette score.
 
 ## 5. Action
