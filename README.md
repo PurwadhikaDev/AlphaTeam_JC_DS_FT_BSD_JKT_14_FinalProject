@@ -1,5 +1,5 @@
 # Final Project - Customer Segmentation Using KMeans Clustering
-Contributor
+Contributor:
 - Sulistiya Nirta Sunaryo
 - Niko Yannova
 
